@@ -1,3 +1,12 @@
+Pix-I Fork of the Spring MVC Showcase:
+--------------------------------------
+This is a fork from the showcase at: https://github.com/spring-projects/spring-mvc-showcase
+I thought the original repository was a nice way to get started/understand some of the capabilities of Spring-MVC,
+but it wasn't "complete" enough Imo. So I'll try to add a new component with some documentation and tests once in a while to make it better.
+
+If you have a subject you'd like to see getting added to this showcase, or even a standalone repository, feel free to send me an email at: pix@pix-labs.com 
+
+
 Spring MVC Showcase
 -------------------
 Demonstrates the capabilities of the Spring MVC web framework through small, simple examples.
@@ -22,7 +31,7 @@ To get the code:
 -------------------
 Clone the repository:
 
-    $ git clone git://github.com/SpringSource/spring-mvc-showcase.git
+    $ git clone git://github.com/Pix-I/spring-mvc-showcase.git
 
 If this is your first time using Github, review http://help.github.com to learn the basics.
 
@@ -42,9 +51,3 @@ In your preferred IDE such as SpringSource Tool Suite (STS) or IDEA:
 
 Access the deployed web application at: http://localhost:8080/spring-mvc-showcase/
 
-Note:
--------------------
-
-This showcase originated from a [blog post](http://blog.springsource.com/2010/07/22/spring-mvc-3-showcase/) and was adapted into a SpringOne presentation called [Mastering MVC 3](http://www.infoq.com/presentations/Mastering-Spring-MVC-3).
-
-A screen cast showing the showcase in action is [available in QuickTime format](http://s3.springsource.org/MVC/mvc-showcase-screencast.mov).
